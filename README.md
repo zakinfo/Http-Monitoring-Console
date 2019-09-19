@@ -7,3 +7,5 @@ Whenever total traffic for the past 2 minutes exceeds a certain number on averag
 “High traffic generated an alert - hits = {value}, triggered at {time}”
 Whenever the total traffic drops again below that value on average for the past 2 minutes, add another message detailing when the alert recovered
 Make sure all messages showing when alerting thresholds are crossed remain visible on the page for historical reasons.test
+
+Modifier depuis github.
